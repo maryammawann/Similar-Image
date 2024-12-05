@@ -2,6 +2,7 @@ import os
 import pandas as pd
 import numpy as np
 import requests
+import tensorflow
 from tensorflow.keras.applications import VGG16
 from tensorflow.keras.applications.vgg16 import preprocess_input
 from tensorflow.keras.preprocessing.image import load_img, img_to_array
