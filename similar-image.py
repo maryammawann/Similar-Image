@@ -124,5 +124,5 @@ def main():
         for image_path in top_similar_images:
             st.image(image_path, use_column_width=True)
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
