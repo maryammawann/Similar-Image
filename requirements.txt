@@ -1,8 +1,8 @@
-opencv–python
-pandas
-numpy
-requests
 tensorflow
+numpy
+pandas
+requests
 Pillow
 scikit-learn
 streamlit
+opencv-python
